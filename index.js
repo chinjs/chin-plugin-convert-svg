@@ -11,7 +11,7 @@ const ext2package = (ext) =>
 
 module.exports = (ext, opts) => {
   const packageName = ext2package(ext)
-  asserts(packageName, '')
+  asserts(packageName, 'chin-plugin-convert-svg: invalid ext.')
   const { convert } = require(packageName)
   const processor = (data, { out }) => convert(data, opts).then(converted => [fwa(out, { ext }), converted])
   return { processor }
