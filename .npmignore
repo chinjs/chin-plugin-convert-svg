@@ -1,0 +1,8 @@
+.example/
+src/
+.babelrc
+.gitignore
+.travis.yml
+codecov.yml
+test.js
+yarn.lock
