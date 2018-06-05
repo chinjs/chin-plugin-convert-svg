@@ -1,5 +1,4 @@
 .example/
-src/
 .babelrc
 .gitignore
 .travis.yml
