@@ -12,7 +12,7 @@ deploy:
   email: toxictoxer@gmail.com
   on:
     tags: true
-    repo: kthjm/chin-plugin-convert-svg
+    repo: chinjs/chin-plugin-convert-svg
     branch: publish
   api_key:
     secure: ZkApPEn3EUZRDS1/AjOX9nI3T6+qqEBNabiq/dhKCQTvv3YFiiXZ3OABS0rF09oukQp6UewYaWrt3aIILi4Jtv61KddvZNAK2tAddS9uqvD1RKi481j6/mgAKviU7xdxVokmU+5gyVG0OVHV+5ML92J4FUJhHQPO7zVTP1o+qw27+J7tFXKXiAdqK+9lE9yJPSO99vWXCAH/qBIsRPYZ7kAu7ICvalBJTV3bZvDSlIljf4yK2vcplaJy4z7+ZfJY/lCqevxQeqC25iUZvr/3f8FjbcRSdy5tSWdoPmnxNgtx67TAaF3EQsAI1U9tooMTFOGI+2OMc6OnMjTrdC5y332rYDtLo8aaV8DftskgI0VGSrtG20oer5OSi1tcxuk+/P1w/leLfOzj9wtduHCaJhavdfy5Ak/etEWWSnqym/SQex8syW1R+b+zWhqVTLFMPzD2Tlbt9QXl5jBJDEU/ZSDlxrXpxzAAN+u5GAxehLiaO7y/5APW++AEzMcre7JDP+vWbl7hDCV+xfC+r+hNMQDDH854ww5NTS0ozAm/JYQDLRjad0kejUhVVOJyQhrpsO4jIB2SRDMpOoGnt/zWHom64fLrtlzaJBn/EW92GciCWoZq6DRU+Fd95doV4d32W6r0EMY3Ghlsp/GurYZnP3KEvI1yTQiXU02f9o/qXbw=
